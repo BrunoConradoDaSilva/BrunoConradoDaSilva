@@ -2,7 +2,7 @@
 
 
 - 🤓 No momento estou estudando Pytho/Banco de dados ...
-- 📫 Como chegar até mim: bruconsil789@gmail.com ...
+
 
 <div style="display: inline_block"><br>
 
