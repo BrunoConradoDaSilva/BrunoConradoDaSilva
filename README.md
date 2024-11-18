@@ -1,7 +1,6 @@
 ### Oi sou Bruno Conrado Da Silva 👋
 
 
-- 🤓 No momento estou estudando Pytho/Banco de dados ...
 
 
 <div style="display: inline_block"><br>
